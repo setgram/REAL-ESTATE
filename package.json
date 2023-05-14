@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.11.1"
+  },
+  "devDependencies": {
+    "miragejs": "^0.1.47"
+  }
+}
